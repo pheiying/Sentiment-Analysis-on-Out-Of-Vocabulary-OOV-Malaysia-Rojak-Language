@@ -40,9 +40,9 @@ This project utilises sentiment analysis techniques such as Support Vector Machi
 
 ## Results
 
-**Logistic regression.** Achieved an F1 score of 0.7778, indicating a strong balance between precision and recall.
+**Logistic regression.** Achieved an F1 score of **0.7778**, indicating a strong balance between precision and recall.
 
-**LSTM model.** Displayed the lowest F1 score of 0.3333, suggesting challenges in achieving a harmonious trade-off between precision and recall.
+**LSTM model.** Displayed the lowest F1 score of **0.3333**, suggesting challenges in achieving a harmonious trade-off between precision and recall.
 
 ## License
 
@@ -51,4 +51,4 @@ This project forms part of an academic course and is intended solely for educati
 For more details, see the [LICENSE](./LICENSE.txt) file.
 
 ## Reference
-**Dataset:** [Shopee Review](https://shopee.com.my/wakakagiftshop)
+**Dataset:** [W Baju Melayu Shopee Review](https://shopee.com.my/wakakagiftshop)
